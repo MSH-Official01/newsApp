@@ -1,16 +1,16 @@
 # newsApp
 this is api besd news app
 # Use of Libraries 
-  cupertino_icons: ^1.0.2
-  google_fonts:
-  fancy_shimmer_image:
-  page_transition:
-  webview_flutter:
-  share_plus:
-  url_launcher:
-  provider:
-  http:
-  device_preview:
+  cupertino_icons: ^1.0.2 ,
+  google_fonts: , 
+  fancy_shimmer_image: , 
+  page_transition: , 
+  webview_flutter: , 
+  share_plus: , 
+  url_launcher: , 
+  provider: , 
+  http: , 
+  device_preview: , 
 # APK Link
 https://drive.google.com/file/d/1fWr0un09LB9_3GvguhPHtNIajFPcbBA0/view?usp=sharing
 # Output
